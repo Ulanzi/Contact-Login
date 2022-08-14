@@ -1,0 +1,62 @@
+.descriptionBlock {
+    padding-left: 3px;
+}
+
+.center {
+    text-align: center;
+}
+
+.mainPhoto {
+    max-width: 220px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -260px;
+    padding-bottom: 23px;
+}
+
+.InputMainPhoto{
+    margin-top: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.headerPhoto {
+    max-width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonEdit {
+    padding-left: 10px;
+    width: 4%;
+}
+
+.profile {
+    padding-left: 10px;
+}
+
+.contact {
+    padding-left: 12px;
+}
+
+.paddingStatus {
+    padding-left: 14px;
+    margin: 10px;
+    text-align: center;
+}
+
+.fullName {
+    text-align: center;
+    margin: 35px;
+    font-size: 24px;
+    border-bottom: 1px solid darkslategrey;
+    margin-top: -1px;
+
+}
+
+
+

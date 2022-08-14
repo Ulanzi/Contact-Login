@@ -1,0 +1,20 @@
+.header {
+    height: 60px;
+    background-color: darkslategrey;
+    }
+
+    .header img{
+    width: 170px;
+    }
+
+    .loginBlock {
+        color: #918282;
+        margin-top: 12px;
+        padding-left: 100px;
+        float: left;
+    }
+
+    .loginColor {
+        color: white;
+    }
+

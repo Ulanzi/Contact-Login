@@ -1,0 +1,30 @@
+
+.formControl.error input,
+.formControl.error textarea
+{
+    border: solid darkslategrey 3px ;
+}
+
+.formControl.error span
+{
+    color: grey;
+}
+
+.formSummaryError {
+    border:  darkslategrey 3px solid;
+    padding: 5px;
+    color: darkslategrey;
+}
+
+.formFullName {
+    margin-top: -50px;
+}
+
+.formPadding {
+    margin-top: 40px;
+}
+
+.loginPadding {
+    padding-bottom: 15px;
+}
+
